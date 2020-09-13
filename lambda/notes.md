@@ -1,0 +1,1 @@
+Lambda billing is based on both The MB of RAM reserved and the execution duration in 100ms units.

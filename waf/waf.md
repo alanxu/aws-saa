@@ -1,0 +1,1 @@
+Setup rules to block SQL injection or cross-site scripting, can block IP
